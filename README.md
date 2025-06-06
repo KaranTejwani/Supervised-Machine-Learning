@@ -5,17 +5,17 @@ Welcome to my collection of supervised machine learning practice projects. This 
 ---
 
 ## 📁 Repository Structure
-
-`Supervised-Machine-Learning/
+```
+Supervised-Machine-Learning/
 ├── Breast_Cancer_Prediction_GBC.ipynb
 ├── Gender_Classification_ID3_Random_Forest.ipynb
 ├── IceCreamSalesPrediction_Logical_Regression.ipynb
 ├── Iris_Classification_KNN.ipynb
 ├── Iris_Classification_Naive_Bayes.ipynb
 ├── Spambase_Classification_SVM.ipynb
-├── Titanic_Survivals_Classification_Logistic_Regression.ipynb`
+├── Titanic_Survivals_Classification_Logistic_Regression.ipynb
 
-
+```
 ---
 
 ## 📊 Project Descriptions
